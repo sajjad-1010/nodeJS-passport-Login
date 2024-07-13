@@ -1,6 +1,5 @@
 # nodeJS-passport-Login
 this single and simple login page is my first project with nodeJS , i hope it's wrok for you and help you too 
-# Table of contents
 
 ## How to run
 
